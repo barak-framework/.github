@@ -7,6 +7,3 @@ by
 :briefcase:	 [Barak Framework Organization](https://github.com/barak-framework/barak-framework)  
 
 ##
-
-*Founder* :circus_tent:	[Feriz Bey](https://github.com/feriz-bey) (*Respectfully*)
-
