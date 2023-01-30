@@ -5,6 +5,6 @@
 :chart_with_upwards_trend:	 [Used Examples](https://github.com/Barak-Framework-Projects), 
 :orange_book: [Core & Default App](https://github.com/barak-framework/barak) 
 by 
-:briefcase:	 [Barak Framework Organization](https://github.com/barak-framework/barak-framework)  
+:briefcase:	 [Barak Framework Organization](https://github.com/barak-framework)  
 
 ##
