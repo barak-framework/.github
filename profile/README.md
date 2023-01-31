@@ -1,7 +1,5 @@
 <div align="center">
 
-<b>Barak Framework</b>
-
 <a href="https://github.com/barak-framework/barak">Core & Default App</a> -
 <a href="https://github.com/barak-framework">Organization</a> -
 <a href="https://barak-framework.github.io/">Website</a> -
