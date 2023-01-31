@@ -7,7 +7,6 @@
 <a href="https://barak-framework.github.io/">Website</a> -
 <a href="mailto:barak.framework@gmail.com">Email</a>
 </div>
-<h1></h1>
 
 <h2 align="right">IMAGES</h2>
 
