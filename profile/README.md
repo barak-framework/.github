@@ -1,12 +1,26 @@
-## Good Day Sir  👋 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gdemir)
- <div align="right"> <img src="https://komarev.com/ghpvc/?username=barak-framework&label=Profile%20views&color=ef9141&style=flat" alt="Barak Framework" /> </div>
+<div align="center">
 
-![desert](https://github.com/barak-framework/barak-framework.github.io/blob/master/assets/img/desert-border.png)
-![original](https://github.com/barak-framework/barak-framework.github.io/blob/master/assets/img/original-border.png)
+<b>Barak Framework</b>
 
-:chart_with_upwards_trend:	 [Used Examples](https://github.com/Barak-Framework-Projects), 
-:orange_book: [Core & Default App](https://github.com/barak-framework/barak) 
-by 
-:briefcase:	 [Barak Framework Organization](https://github.com/barak-framework)  
+<a href="https://github.com/barak-framework/barak">Core & Default App</a> -
+<a href="https://github.com/barak-framework">Organization</a> -
+<a href="https://barak-framework.github.io/">Website</a> -
+<a href="mailto:barak.framework@gmail.com">Email</a>
+</div>
+<h1></h1>
 
-##
+<h2 align="right">IMAGES</h2>
+
+- Logos
+
+<img src="https://github.com/barak-framework/barak-framework.github.io/blob/master/assets/img/default.png" width="100" height="100" /><img src="https://github.com/barak-framework/barak-framework.github.io/blob/master/assets/img/original.png" width="100" height="100" /><img src="https://github.com/barak-framework/barak-framework.github.io/blob/master/assets/img/desert.png" width="100" height="100" />
+
+- Logos with Border
+
+<img src="https://github.com/barak-framework/barak-framework.github.io/blob/master/assets/img/default-border.png" width="100" height="100" /><img src="https://github.com/barak-framework/barak-framework.github.io/blob/master/assets/img/original-border.png" width="100" height="100" /><img src="https://github.com/barak-framework/barak-framework.github.io/blob/master/assets/img/desert-border.png" width="100" height="100" />
+
+<h2 align="right">VIEWS</h2>
+
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=barak-framework&label=Profile%20views&color=ef9141&style=flat" alt="Barak Framework" />
+</div>
