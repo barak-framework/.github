@@ -17,9 +17,9 @@
 <img src="https://github.com/barak-framework/barak-framework.github.io/blob/master/assets/img/default-border.png" width="100" height="100" /><img src="https://github.com/barak-framework/barak-framework.github.io/blob/master/assets/img/original-border.png" width="100" height="100" /><img src="https://github.com/barak-framework/barak-framework.github.io/blob/master/assets/img/desert-border.png" width="100" height="100" />
 
 - Hex Codes
-turquoise - #30d5c8
-barak - #ef9141
-desert - #d7d5cb
+turquoise - `#30d5c8`
+barak - `#ef9141`
+desert - `#d7d5cb`
 *TODO* sunup - turqoise with barak
 
 <h2 align="right">VIEWS</h2>
