@@ -14,7 +14,7 @@
 
 - Logos with Border
 
-<img src="https://github.com/barak-framework/barak-framework.github.io/blob/master/assets/img/default-border.png" width="100" height="100" /><img src="https://github.com/barak-framework/barak-framework.github.io/blob/master/assets/img/original-border.png" width="100" height="100" /><img src="https://github.com/barak-framework/barak-framework.github.io/blob/master/assets/img/desert-border.png" width="100" height="100" /><img src="https://github.com/barak-framework/barak-framework.github.io/blob/master/assets/img/mechanic_title.png" width="100" height="100" />
+<img src="https://github.com/barak-framework/barak-framework.github.io/blob/master/assets/img/default-border.png" width="100" height="100" /><img src="https://github.com/barak-framework/barak-framework.github.io/blob/master/assets/img/original-border.png" width="100" height="100" /><img src="https://github.com/barak-framework/barak-framework.github.io/blob/master/assets/img/desert-border.png" width="100" height="100" /><img src="https://github.com/barak-framework/barak-framework.github.io/blob/master/assets/img/mechanic_default.png" width="100" height="100" />
 
 - Hex Codes
   
