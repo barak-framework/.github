@@ -21,7 +21,7 @@
 turquoise - `#30d5c8`
 barak - `#ef9141`
 desert - `#d7d5cb`
-black - `#4d4d4d`
+black - `#434343`
 *TODO* sunup - turqoise with barak
 
 <h2 align="right">VIEWS</h2>
